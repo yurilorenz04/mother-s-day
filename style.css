@@ -28,12 +28,7 @@ h2 {
   text-align: center;
 }
 
-h3 {
-  font-family: 'Sacramento', cursive;
-  color: #3a3939;
-  font-size: 3.2vw; /* Use viewport width for font size */
-  text-align: center;
-}
+
 
 .letter {
   width: 90vw; /* Use viewport width for responsiveness */
